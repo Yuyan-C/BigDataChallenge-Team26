@@ -7,4 +7,4 @@ Training data retrived from <a href="https://data.mendeley.com/datasets/zwfdmp5s
 This project aims at Covid-19 fake news detection. The dataset is preprocessed with nltk and three models are trained with <a href="https://github.com/Yuyan-C/BigDataChallenge-Team26/blob/main/cleaned_dataset.csv">the cleaned dataset.</a> 
 
 ## Usage
-To use the models, download the files in saved_models or run all the codes in FakeNewsDetection.ipynb from "loading cleaned dataset".
+To use the models, download the files in <a href="https://github.com/Yuyan-C/BigDataChallenge-Team26/tree/main/models">saved_models</a> or run all the codes in <a href="https://github.com/Yuyan-C/BigDataChallenge-Team26/tree/main/models">FakeNewsDetection.ipynb</a> from "loading cleaned dataset".
