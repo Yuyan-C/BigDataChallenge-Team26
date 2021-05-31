@@ -7,4 +7,4 @@ Training data retrived from <a href="https://data.mendeley.com/datasets/zwfdmp5s
 This project aims at Covid-19 fake news detection. Three models are trained based on the training data. 
 
 ## Usage
-To use the models, download the files in 
+To use the models, download the files in saved_models or run all the codes in FakeNewsDetection.ipynb from "loading cleaned dataset".
